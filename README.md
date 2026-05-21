@@ -1,1 +1,5 @@
-# my-first-repo
+my-first-repo
+
+Anton Pasichnyk
+===
+
