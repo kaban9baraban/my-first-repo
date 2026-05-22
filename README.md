@@ -13,4 +13,4 @@
 
 ## Приклад коду
 ```python
-print("Hello, GitHub! Це Михайло")Нова зміна
+print("Hello, GitHub! Це Михайло")
