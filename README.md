@@ -1,25 +1,16 @@
-# my-first-repo
 # Мій перший проєкт на Git
 
+Це мій навчальний репозиторій **my-first-repo**.
+
 ## Про автора
+Мене звати **Михайло**.  
+Я вивчаю Git та GitHub у рамках практичної роботи №13.
 
-Мене звати **Михаил**.  
-Я вивчаю Git та GitHub.
-
-## Що є в цьому проєкті
-
-- Робота з Git
-- Гілки та злиття
-- Pull Request
-- GitHub Issues
-- Markdown документація
-
-## Мій GitHub
-
-[Мій профіль GitHub](https://github.com/kaban9baraban)
+## Мої досягнення
+- Створив перший репозиторій
+- Відкрив pull request та issue
+- Оформлюю README.md
 
 ## Приклад коду
-
 ```python
-def hello():
-    print("Hello Git!")
+print("Hello, GitHub! Це Михайло")
