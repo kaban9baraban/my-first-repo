@@ -2,3 +2,4 @@
 Вітаю!Це гілка Б.
 Привіт з GitHub Issues!
 Зміна через VS Code
+Зміна через PyCharm
